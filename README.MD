@@ -12,7 +12,7 @@
 
 
 
-<p align="center"> <img width="140" src="https://komarev.com/ghpvc/?username=ASHTONREPORTER&label=PROFILE+VIEWS&color=cf0c64">
+<p align="center"> <img width="140" src="https://komarev.com/ghpvc/?username=ASHTONREPORTER&label=HEARTS&color=cf0c64">
  
 
  <p align="center"> <img width="400" src="https://file.garden/amOQmNXZJXVNTJtJ/tumblr_383236e059703285733c955c5286be42_cd905664_2048.png" alt="example">
