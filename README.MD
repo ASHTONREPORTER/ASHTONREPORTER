@@ -8,7 +8,6 @@
 
 <p align="center"> $\large{\textsf{᭥✸     ASHTON    ۪.  HE/ASK    ݁    —⠀⠀    ݁    —⠀}}$
 <p align="center">  ⁔⠀_SYS,_ 
-<div align="center"> [atabook](https://ashtonreporter.atabook.org/)
 <p align="center">⠀⠀——⠀⠀‶ Will I know when I’ve gone too far?‶  —
 
 
